@@ -1,8 +1,0 @@
-C:\Projects\key-to-the-world-applications\src\FlightCentre.Apis\FlightCentre.API.Core\obj\Debug\netstandard2.1\FlightCentre.API.Core.csprojAssemblyReference.cache
-C:\Projects\key-to-the-world-applications\src\FlightCentre.Apis\FlightCentre.API.Core\obj\Debug\netstandard2.1\FlightCentre.API.Core.AssemblyInfoInputs.cache
-C:\Projects\key-to-the-world-applications\src\FlightCentre.Apis\FlightCentre.API.Core\obj\Debug\netstandard2.1\FlightCentre.API.Core.AssemblyInfo.cs
-C:\Projects\key-to-the-world-applications\src\FlightCentre.Apis\FlightCentre.API.Core\bin\Debug\netstandard2.1\FlightCentre.API.Core.deps.json
-C:\Projects\key-to-the-world-applications\src\FlightCentre.Apis\FlightCentre.API.Core\bin\Debug\netstandard2.1\FlightCentre.API.Core.dll
-C:\Projects\key-to-the-world-applications\src\FlightCentre.Apis\FlightCentre.API.Core\bin\Debug\netstandard2.1\FlightCentre.API.Core.pdb
-C:\Projects\key-to-the-world-applications\src\FlightCentre.Apis\FlightCentre.API.Core\obj\Debug\netstandard2.1\FlightCentre.API.Core.dll
-C:\Projects\key-to-the-world-applications\src\FlightCentre.Apis\FlightCentre.API.Core\obj\Debug\netstandard2.1\FlightCentre.API.Core.pdb
