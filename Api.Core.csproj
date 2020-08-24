@@ -2,6 +2,10 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.1</TargetFramework>
+        <LangVersion>9</LangVersion>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Api.Core</Title>
+        <Authors>Chris Rhodan</Authors>
     </PropertyGroup>
 
     <ItemGroup>
