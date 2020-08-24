@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Api.Core.Models.Api
+namespace CRhodan.Api.Core.Models.Api
 {
     public interface IApiResponseError<T> : IApiResponse<T>
     {

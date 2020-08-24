@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using Microsoft.AspNetCore.Mvc;
-
-namespace Api.Core.Models.Api
+﻿namespace CRhodan.Api.Core.Models.Api
 {
     public class SuccessResponse<T> : IApiResponseSuccess<T>
     {

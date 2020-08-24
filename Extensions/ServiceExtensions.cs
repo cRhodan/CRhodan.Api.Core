@@ -1,10 +1,10 @@
 ﻿using System;
-using Api.Core.Middleware;
+using CRhodan.Api.Core.Middleware;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Serilog;
 
-namespace Api.Core.Extensions
+namespace CRhodan.Api.Core.Extensions
 {
     public static class ServiceExtensions
     {

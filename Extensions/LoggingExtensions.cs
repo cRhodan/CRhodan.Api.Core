@@ -1,8 +1,8 @@
 ﻿using System;
-using Api.Core.Models.Api;
+using CRhodan.Api.Core.Models.Api;
 using Serilog;
 
-namespace Api.Core.Extensions
+namespace CRhodan.Api.Core.Extensions
 {
     public static class LoggingExtensions
     {

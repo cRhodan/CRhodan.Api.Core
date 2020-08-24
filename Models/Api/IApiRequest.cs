@@ -1,4 +1,4 @@
-﻿namespace Api.Core.Models.Api
+﻿namespace CRhodan.Api.Core.Models.Api
 {
     public interface IApiRequest
     {

@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using Api.Core.Models.Api;
-using Api.Core.Extensions;
+using CRhodan.Api.Core.Extensions;
+using CRhodan.Api.Core.Models.Api;
 
-namespace Api.Core.ActionHandlers
+namespace CRhodan.Api.Core.ActionHandlers
 {
     public abstract class ActionHandlerBase<TRequest, TResponseData> where TRequest : IApiRequest
     {

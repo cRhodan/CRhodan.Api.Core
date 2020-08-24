@@ -1,7 +1,6 @@
-﻿using System.Collections.Generic;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 
-namespace Api.Core.Models.Api
+namespace CRhodan.Api.Core.Models.Api
 {
     public interface IApiResponse<T>
     {

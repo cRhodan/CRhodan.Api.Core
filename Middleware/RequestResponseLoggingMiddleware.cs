@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.IO;
 
-namespace Api.Core.Middleware
+namespace CRhodan.Api.Core.Middleware
 {
 // https://exceptionnotfound.net/using-middleware-to-log-requests-and-responses-in-asp-net-core/
 // https://gist.github.com/elanderson/c50b2107de8ee2ed856353dfed9168a2

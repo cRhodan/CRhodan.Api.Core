@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Api.Core.Models.Api
+namespace CRhodan.Api.Core.Models.Api
 {
     public class BaseApiRequest : IApiRequest
     {
