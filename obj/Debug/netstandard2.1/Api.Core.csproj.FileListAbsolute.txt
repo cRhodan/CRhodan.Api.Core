@@ -1,0 +1,9 @@
+C:\Projects\General\Api.Core\bin\Debug\netstandard2.1\Api.Core.deps.json
+C:\Projects\General\Api.Core\bin\Debug\netstandard2.1\Api.Core.dll
+C:\Projects\General\Api.Core\bin\Debug\netstandard2.1\Api.Core.pdb
+C:\Projects\General\Api.Core\obj\Debug\netstandard2.1\Api.Core.csprojAssemblyReference.cache
+C:\Projects\General\Api.Core\obj\Debug\netstandard2.1\Api.Core.AssemblyInfoInputs.cache
+C:\Projects\General\Api.Core\obj\Debug\netstandard2.1\Api.Core.AssemblyInfo.cs
+C:\Projects\General\Api.Core\obj\Debug\netstandard2.1\Api.Core.csproj.CoreCompileInputs.cache
+C:\Projects\General\Api.Core\obj\Debug\netstandard2.1\Api.Core.dll
+C:\Projects\General\Api.Core\obj\Debug\netstandard2.1\Api.Core.pdb
