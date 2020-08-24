@@ -1,4 +1,3 @@
-# api.core
-Just some simple boilerplate for APIs
+# CRhodan.Api.Core
 
-More detail to come if required.
+Just some simple core logic and base classes for APIs
